@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "paths": {
-      "@mentee-dash/*": ["./*"]
+      "@foodie-dash/*": ["./*"]
     }
   }
 }
