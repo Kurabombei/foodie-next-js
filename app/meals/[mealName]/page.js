@@ -1,8 +1,8 @@
 import Link from "next/link";
 
-export default function MealPage({params}) {
+export default function MealDetailsPage({params}) {
 	return <main>
-		<h1>Welcome onto meal page!</h1>
+		<h1>Welcome onto meal details!</h1>
 		<p>This meal post is about {params.mealName}</p>
 		<h3>Want to share it with community?</h3>
 		<p><Link href="/meals/share">Go to share page</Link></p>

@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function MealSharePage({params}) {
+export default function ShareMealPage({params}) {
 	return <main>
 		<h1>Welcome onto share page!</h1>
 		<h3>Want to share it with community?</h3>
